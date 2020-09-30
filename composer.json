@@ -13,7 +13,7 @@
         "library/"
     ],
     "require": {
-        "zendframework/zendframework1": "1.*"
+        "vast-ru/zf1": ">=1.14.7"
     },
     "authors": [
         {
